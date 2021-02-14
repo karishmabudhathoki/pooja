@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pooja/static/css/main.6caa13ec.chunk.css",
+    "main.js": "/pooja/static/js/main.8763975d.chunk.js",
+    "main.js.map": "/pooja/static/js/main.8763975d.chunk.js.map",
+    "runtime-main.js": "/pooja/static/js/runtime-main.3a5918c5.js",
+    "runtime-main.js.map": "/pooja/static/js/runtime-main.3a5918c5.js.map",
+    "static/js/2.e0b86ac6.chunk.js": "/pooja/static/js/2.e0b86ac6.chunk.js",
+    "static/js/2.e0b86ac6.chunk.js.map": "/pooja/static/js/2.e0b86ac6.chunk.js.map",
+    "index.html": "/pooja/index.html",
+    "static/css/main.6caa13ec.chunk.css.map": "/pooja/static/css/main.6caa13ec.chunk.css.map",
+    "static/js/2.e0b86ac6.chunk.js.LICENSE.txt": "/pooja/static/js/2.e0b86ac6.chunk.js.LICENSE.txt",
+    "static/media/mero1.5b653486.jpg": "/pooja/static/media/mero1.5b653486.jpg",
+    "static/media/mero2.2e7a6b34.jpg": "/pooja/static/media/mero2.2e7a6b34.jpg",
+    "static/media/prashnapp.5f900d13.jpg": "/pooja/static/media/prashnapp.5f900d13.jpg",
+    "static/media/prashnarr.442a59c7.jpg": "/pooja/static/media/prashnarr.442a59c7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a5918c5.js",
+    "static/js/2.e0b86ac6.chunk.js",
+    "static/css/main.6caa13ec.chunk.css",
+    "static/js/main.8763975d.chunk.js"
+  ]
+}
